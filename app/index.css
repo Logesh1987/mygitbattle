@@ -91,13 +91,18 @@ li {
     font-weight: bolder;
     text-align: center;
 }
-
+.battle {
+    text-align: center;
+}
 .row {
     display: flex;
     justify-content: space-around;
     text-align: center;
 }
 
+.row img {
+    width: 200px;
+}
 .column label {
     display: block;
     font-size: 26px;
